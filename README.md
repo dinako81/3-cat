@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/dinako81/3-cat
 
-Design: [Cat](https://cdn.dribbble.com/users/772985/screenshots/9328351/media/45480f6265e16e5383862c1c37446248.png?compress=1&resize=640x480&vertical=top)
+Design: [Cat](https://cdn.dribbble.com/users/772985/screenshots/9328351/media/45480f6265e16e5383862c1c37446248.png?compress=1&resize=1600x1200&vertical=top)
 
 ## 🎯 Project features/goals
 
