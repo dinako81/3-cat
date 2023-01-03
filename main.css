@@ -42,6 +42,9 @@ nav > a:first-child {
     margin-left: 0px
 }
 
+nav > a:hover{
+    text-decoration: underline;
+}
 main {
     margin-top: 50px;
 }
@@ -94,6 +97,7 @@ div > a {
     color: #fff;
     border-radius: 7em;
     border: 0.13em solid #6BBEDC;
+    line-height: 1.78em;
     margin-top: 10px;
 }
 
@@ -103,3 +107,6 @@ div a:last-child {
     font-weight: bold;
 }
 
+div > a:hover {
+    background-color: #627073;
+}
