@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/dinako81/3-cat
+Site published at: https://dinako81.github.io/3-cat/
 
 Design: [Cat](https://cdn.dribbble.com/users/772985/screenshots/9328351/media/45480f6265e16e5383862c1c37446248.png?compress=1&resize=1600x1200&vertical=top)
 
