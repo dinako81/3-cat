@@ -31,7 +31,7 @@ nav {
     background-color: crimson;
  }
 
-a {
+nav > a {
 margin: 0px;
 font-size: 10px;
 inline-size: 20px;
