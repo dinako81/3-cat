@@ -11,7 +11,7 @@ header, main {
 }
 
 header {
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 header > nav { 
@@ -58,47 +58,54 @@ main > img {
 }
 
 main > div {  
-    width: 50%;
-    float: left; 
     float: left;
     width: 50%;
     }
 
-div > h1 { 
+.main-title { 
     display: block;
     color: #1C2D34;
-    font-size: 100px;
+    font-size: 60px;
     line-height: 1em;
     font-weight: normal;
-    
+}
+.main-title::after {
+    display: block;
+    content: '';
+    width: 140px;
+    height: 4px;
+    background-color: #6ABDDD;
+    line-height: 2em;
 }
 span {
     display: block;
     color: #1C2D34;
-    font-size: 100px;
+    font-size: 60px;
     line-height: 1.1em;
     font-weight: bold;
 }
 div > p {
-    font-size: 25px;
+    font-size: 20px;
     color: #627073;
     font-weight: 100;
+    width: 350px;
 }
 
 div > a {
     display: inline-block;   
-    font-size: 20 px;
+    font-size: 12px;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 1em;
-    padding-left: 3em;
-    padding-right: 3em;
+    padding: 0.5em;
+    padding-left: 2.8em;
+    padding-right: 2.8em;
     background-color: #6BBEDC;
     color: #fff;
-    border-radius: 7em;
-    border: 0.13em solid #6BBEDC;
-    line-height: 1.78em;
+    border-radius: 1.45em;
+    border: 0.10em solid #6BBEDC;
+    line-height: 1.7em;
     margin-top: 10px;
+    
 }
 
 div a:last-child {
